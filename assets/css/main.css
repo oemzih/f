@@ -133,7 +133,7 @@ video {
   width: 100%;
   display: flex;
   justify-content: center;
-  bottom: 1px;
+  bottom: 0.5px;
 }
 #manipulate2 {
   position: absolute;

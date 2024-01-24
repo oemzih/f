@@ -126,14 +126,14 @@ video {
   width: 100%;
   display: flex;
   justify-content: center;
-  bottom: 10px;
+  bottom: 15px;
 }
 #manipulate1 {
   position: absolute;
   width: 100%;
   display: flex;
   justify-content: center;
-  bottom: 3px;
+  bottom: 1px;
 }
 #manipulate2 {
   position: absolute;

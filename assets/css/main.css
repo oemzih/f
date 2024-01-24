@@ -135,3 +135,10 @@ video {
   justify-content: center;
   bottom: 5px;
 }
+#manipulate2 {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  bottom: 2px;
+}
